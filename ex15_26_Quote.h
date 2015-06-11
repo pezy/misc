@@ -61,11 +61,10 @@ public:
 
     string isbn() const { return bookNo; }
     virtual double net_price(size_t n) const { return n * price; }
-protected:
-    double price = 0.0;
 private:
     string bookNo;
-
+protected:
+    double price = 0.0;
 };
 
 }

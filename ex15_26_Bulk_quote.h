@@ -4,7 +4,7 @@
 C++ Primer 5th Exercise Answer Source Code
 Copyright (C) 2014-2015 https://github.com/pezy/Cpp-Primer
 
-Disc_quote class
+Bulk_quote class
  1. define copy-control members to do the same job as the synthesized versions.
  2. Print function name to trace the running.
 
